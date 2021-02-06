@@ -1,9 +1,7 @@
 # Kia ora! 
 
-I'm a front-end developer and I love working on products that have their users, performance, and useability front of mind. 
+I'm a front-end developer who loves working on products that users, performance, and useability front of mind. Day-to-day I work as a front-end developer at Canva. 
 
-I work as a Team Lead at a lovely company called Raygun where we create software solutions that improve the quality and performance of your applications. 
-
-In the past, I taught web development at Yoobee School of Design where I studied Web Development and Interactive Design.  
+In the past, I've been a Team Lead at [Raygun](https://raygun.com/) and also taught web development at [Yoobee](https://www.yoobee.ac.nz/), where I also studied.
 
 Mā te wā!
